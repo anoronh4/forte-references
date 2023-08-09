@@ -1,3 +1,2 @@
 GRCh37/blocklist_breakpoints.bedpe filter=lfs diff=lfs merge=lfs -text
-GRCh37/gene_info_20230714.txt filter=lfs diff=lfs merge=lfs -text
 GRCh37/v75_gene.bed filter=lfs diff=lfs merge=lfs -text
